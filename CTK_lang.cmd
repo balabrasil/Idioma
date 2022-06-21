@@ -258,7 +258,7 @@ set "txtintegratementogowork=Espaco de Trabalho do Windows To Go"
 set "txtintegratemenop_p=Integrar Selecao de Recursos Pessoais"
 
 set "txtintegratemenumsg01=##### Integracao de Recursos Concluido ########################################"
-set "txtintegratemenumsg02=O SO de origem nao esta selecionado, selecione-o no Menu "Origem""
+set "txtintegratemenumsg02=O SO de origem nao esta selecionado, selecione-o no Menu Principal "Origem""
 
 
 
