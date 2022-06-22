@@ -1,6 +1,6 @@
 # Idioma
 Projeto em andamento para tradução do MSMG CustomToolkit
-que foi customizado por inTerActionVRI tendo como basa o MSMG Toolkit.
+que foi customizado por inTerActionVRI tendo como base o MSMG Toolkit.
 Estou desenvolvendo juntamente com o apoio e suporte do inTerActionVRI
 uma estrutura pra adicionar idiomas diferente do ingles na MSMG CustomToolkit
 com isso proporcionar maior abrangencia da ferramenta pra todos os
