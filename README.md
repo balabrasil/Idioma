@@ -6,4 +6,4 @@ uma estrutura pra adicionar idiomas diferente do ingles na MSMG CustomToolkit
 com isso proporcionar maior abrangencia da ferramenta pra todos os
 paises, pois acredito que depois dessa estrutura ficar pronta traduzi-la
 pra outros idiomas a partir do ingles ficara mais facil.
-NEW UPDATE 24.06.2022 23:41
+NEW UPDATE 25.06.2022 1:21
