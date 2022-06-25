@@ -724,7 +724,7 @@ set "txtIntegrateFrameworkandOthers_210="
 
 
 
-
+set "SelectWantedImage=Select The wanted Image, to be Serviced"
 
 set "txtIntegrateMenu_msg01=##### Finished Integrating Features ###########################################"
 set "txtIntegrateMenu_msg02=Source OS is not selected, please do select source from "Source" menu"
@@ -1434,6 +1434,8 @@ set "txtIntegrateFrameworkandOthers_156=Ativando Recurso do Subsistema Windows p
 set "txtIntegrateFrameworkandOthers_157=#### Concluida a integracao do Subsistema Windows para Linux ^(WSL^) ##########"
 
 
+
+set "SelectWantedImage=Selecione Imagem desejada, para ser Trabalhada"
 
 set "txtIntegrateMenu_msg01=##### Integracao de Recursos Concluido ########################################"
 set "txtIntegrateMenu_msg02=O SO de origem nao esta selecionado, selecione-o no Menu Principal "Origem""
