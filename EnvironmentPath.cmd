@@ -5,5 +5,5 @@ rem The "ROOT=%~dp0 (var=value)" for "WorkingFolder var" is the Toolkit's ROOT f
 set "WorkingFolder=%ROOT%"
 rem Here is for Personal folder.
 rem set "WorkingFolder=%SystemDRIVE%\TK\"
-set "ISOsource=%~dp0ISOsource"
-set "ISO=%~dp0ISO"
+set "ISOsource=%ROOT%ISOsource"
+set "ISO=%ROOT%ISO"
