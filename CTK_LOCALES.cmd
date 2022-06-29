@@ -31,7 +31,11 @@ set "GlobalOption_Continue=Continue"
 set "GlobalOption_Return2Change=Return for make other Changes"
 set "GlobalSourceOS_NotSelected=Source OS is not selected, please do select source from "Source" menu..."
 set "GlobalSourceOS_osload=Source OS Image Registry is loaded, please do unload it using Tools-^>Options..."
-set "Globalmenuremovewincomplist=Remove Windows Apps Using Apps List"
+set "txtRemoveWinAppsListMenu=          MSMG Toolkit - Remove Windows Apps Using Apps List                   "
+set "txtRemoveWinAppspListRemove=Remove Windows Apps Using Apps List"
+set "txtRemoveWinAppspListStart=####Starting Remove Windows Apps Using Apps List###############################"
+set "txtRemoveWinAppspListRemoving=####Removing Windows Apps Using Apps List######################################"
+set "txtRemoveWinAppspListFinished=####Finished Removing Windows Apps Using Apps List#############################"
 set "Globalmenuremovepackcomplist=Remove Windows Components Using Package List"
 set "Globalcustomenu=Customize Menu"
 set "Globalfinishappltw=##### Finished Applying Tweaks ################################################"
@@ -1125,7 +1129,6 @@ set "txtIntegrateMicrosoftVisualC05=Integrating Microsoft Visual C++ Prerequiste
 set "txtIntegrateMicrosoftVisualC06=Integrating Microsoft Visual C++ Runtime Package..."
 set "txtIntegrateMicrosoftVisualC07=Importing Microsoft Visual C++ Runtime Registry Settings..."
 set "txtIntegrateMicrosoftVisualC08=####Finished Integrating Microsoft Visual C++ Runtime##########################"
-
 set "txtIntegrateSysinternalsSuite=                   MSMG Toolkit - Integrate Sysinternals Suite                 "
 set "txtDownloadingSysinternalsSuitePack=Downloading... Updated Sysinternals Suite Pack"
 set "txtUpdatedFilePackDownloaded=Updated File Pack Downloaded from :"
@@ -1210,12 +1213,10 @@ set "txtIntegrateWHDGeneralUpdatesBoot=                to Windows Setup Boot, In
 
 
 
+set "txtRemoveWindowsComponentsMenu=Remove Windows Components Menu"
+set "txtRemoveWindowsComponentsFinished=##### Finished Removing Windows Components ####################################"
 
-
-
-
-
-
+set "txtRemoveComponentsWithToolkiHelper01=Removendo os pacotes de componentes..."
 
 set "txtApplySaveChanges2SourceImages01=         MSMG Toolkit - Apply ^& Save Changes to the Source Images             "
 set "txtApplySaveChanges2SourceImages02=####Starting Applying ^& Saving Changes to Source Images#######################"
@@ -1339,6 +1340,7 @@ set "GlobalChoice_continue=Deseja Continuar ?"
 set "GlobalOption_Continue=Continue"
 set "GlobalOption_Return2Change=Retornar para fazer outras escolhas"
 set "GlobalSourceOS_NotSelected=O .Wim nao esta selecionado, selecione-o em no Menu Origem"
+set "GlobalSourceOS_osload=A Imagem .WIM esta carregada, descarregue-a no Menu Ferramentas-^>Opcoes..."
 set "Globalmenuremovewincomplist=Remover Aplicativos usando uma Lista de Aplicativos"
 set "Globalmenuremovepackcomplist=Remover Componentes usando uma Lista de Pacotes"
 set "Globalcustomenu=Personalizar Menu"
@@ -1490,8 +1492,13 @@ set "txtintwinup=##### Integrar Atualizacoes do Windows ########################
 set "txtintcustfeat=##### Integrar Recursos Personalizados ########################################"
 set "txtintcustfeatno=Nenhum recurso foi selecionado para integracao"
 set "txtintfeatures=Integrar Recursos"
-set "txtintfeaturestart=##### Starting Integrate Features #############################################"
+set "txtintfeaturestart=##### Iniciando a Integracao de Recursos ######################################"
 set "txtRemoveMenu=Menu Remover"
+set "txtRemoveWinAppsListMenu=          MSMG Toolkit - Remover Aplicativos Usando uma Lista                  "
+set "txtRemoveWinAppspListRemove=Remover aplicativos usando uma Lista"
+set "txtRemoveWinAppspListStart=#### Iniciando remocao de aplicativos usando a Lista ##########################"
+set "txtRemoveWinAppspListRemoving=#### Removendo aplicativos usando a Lista #####################################"
+set "txtRemoveWinAppspListFinished=#### Concluida a remocao de aplicativos usando a Lista ########################"
 set "txtRemoveMenuwincomp=Remove Componentes"
 set "txtstartMenusetupcompop=Alternativa para SetupComplete e FirstLogon, atraves do Menu Iniciar."
 set "txtstartMenusetupcomp01=Nota: Desta forma e possivel que a automacao da instalacao possa"
@@ -2130,8 +2137,8 @@ set "GlobalIntegrateMicrosoftDefaultInboxAppxClipChamp=Editor de Video ClipChamp
 set "txtIntegrateMicrosoftDefaultInboxAppxMenu014=Plugin Codec - AOMedia Video 1 ^(AV1^)"
 set "GlobalIntegrateMicrosoftDefaultInboxCodecVP9=Plugin Codec - Google's VP9 WebM Video"
 set "GlobalIntegrateMicrosoftDefaultInboxCodecHEIF=Plugin Codec - High Efficiency Image File ^(HEIF^)"
-set "txtIntegrateMicrosoftDefaultInboxAppxMenu015=Plugin Codec - High Efficiency Video Coding ^(HEVC^)"
-set "txtIntegrateMicrosoftDefaultInboxAppxMenu016=Plugin Codec - MPEG-2 Video"
+set "GlobalIntegrateMicrosoftDefaultInboxCodecHEIF=Plugin Codec - High Efficiency Video Coding ^(HEVC^)"
+set "GlobalIntegratePluginCodecMPEG2=Plugin Codec - MPEG-2 Video"
 set "GlobalIntegrateMicrosoftDefaultInboxCodecRaw=Plugin Codec - Raw Image Extension"
 set "GlobalIntegrateMicrosoftDefaultInboxCodecWeb=Plugin Codec - Web Media"
 set "GlobalIntegrateMicrosoftDefaultInboxCodecWebImage=Plugin Codec - WebP Image"
@@ -2516,6 +2523,8 @@ set "txtIntegrateWHDGeneralUpdatesWinRe=                               para imag
 set "txtIntegrateWHDGeneralUpdatesBoot=                         para imagem .WIM, Boot e WinRe                        "
 
 
+set "txtRemoveWindowsComponentsMenu=Menu Remover de Componentes do Windows"
+set "txtRemoveWindowsComponentsFinished=##### Concluida a Remocao de Componentes do Windows ###########################"
 
 set "txtApplySaveChanges2SourceImages01=      MSMG Toolkit - Aplique e Salve as Alteracoes nas Imagens de Origem       "
 set "txtApplySaveChanges2SourceImages02=#### Comecando a Aplicar e Salvar as Alteracoes nas Imagens de Origem #########"
