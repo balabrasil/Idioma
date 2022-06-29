@@ -1174,7 +1174,7 @@ set "txtDiscardChangesUnmountSourceImagesStartFin=####Finished Discarding Change
 
 set "txtSourceImageInformation=##### Source Image Information ################################################"
 set "txtSourceImageInformationImageCurrentBuild=    Current Build from Registry :"
-set "txtSourceImageInformationImageEdition=    Image Edition               :"
+set "txtSourceImageInformationImageEdition=    Edicao da Imagem           :"
 set "txtSourceImageInformationImage=    Image                       :"
 set "txtSourceImageInformationImageIndex=    Image Index                 :"
 set "txtSourceImageInformationImageArchitecture=    Image Architecture          :"
