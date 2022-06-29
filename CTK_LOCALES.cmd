@@ -2570,8 +2570,8 @@ set "txtSourceImageInformationImageSPBuild=    Compilacao Srv. Pack Imagem :"
 set "txtSourceImageInformationImageSPLevel=    Nivel Srv. Pack da Imagem   :"
 set "txtSourceImageInformationImageBuild=    Build da Imagem             :"
 set "txtSourceImageInformationImageCurrentBuild=    Compilacao Atual da Imagem  :"
-set "txtSourceImageInformationDefaultLanguage=Idioma Padrao da Imagem     :"
-set "txtSourceImageInformationImageEdition=Edicao da Imagem            :"
+set "txtSourceImageInformationDefaultLanguage=    Idioma Padrao da Imagem     :"
+set "txtSourceImageInformationImageEdition=    Edicao da Imagem            :"
 
 set "txtDisplayImageInformation01=Obtendo informacoes da imagem..."
 
