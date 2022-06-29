@@ -1216,7 +1216,15 @@ set "txtIntegrateWHDGeneralUpdatesBoot=                to Windows Setup Boot, In
 set "txtRemoveWindowsComponentsMenu=Remove Windows Components Menu"
 set "txtRemoveWindowsComponentsFinished=##### Finished Removing Windows Components ####################################"
 
-set "txtRemoveComponentsWithToolkiHelper01=Removendo os pacotes de componentes..."
+set "txtRemoveWindowsComponentsMenuToolkitHelper=     Remove Windows Apps Components - ToolkitHelper Automated Menu       "
+set "GlobalBack2PreviousRemovalMenu=Back to Previous Removal Menu"
+set "GlobalGo2NextRemovalMenu=Go to Next Removal Menu"
+set "GlobalGoBack2SelectS2StartRemovingComponents=Go Back and Select: 'S' to "Start Removing Components Avoiding Filters"."
+set "txtStartingRemovingWindowsComponents=##### Starting Removing Windows Components ####################################"
+set "txtRemovingWindowsComponents=##### Removing Windows Components #############################################"
+set "txtFinishedRemovingWindowsComponents=##### Finished Removing Windows Components ####################################"
+	 
+set "txtRemoveComponentsWithToolkiHelper01=Removing the Component^(s^) Package^(s^)..."
 
 set "txtApplySaveChanges2SourceImages01=         MSMG Toolkit - Apply ^& Save Changes to the Source Images             "
 set "txtApplySaveChanges2SourceImages02=####Starting Applying ^& Saving Changes to Source Images#######################"
@@ -2525,6 +2533,17 @@ set "txtIntegrateWHDGeneralUpdatesBoot=                         para imagem .WIM
 
 set "txtRemoveWindowsComponentsMenu=Menu Remover de Componentes do Windows"
 set "txtRemoveWindowsComponentsFinished=##### Concluida a Remocao de Componentes do Windows ###########################"
+
+set "txtRemoveWindowsComponentsMenuToolkitHelper=     Menu Remover Componentes de Aplicativos - Metodo ToolkitHelper      "
+set "GlobalBack2PreviousRemovalMenu=Voltar ao Menu Remover anterior"
+set "GlobalGo2NextRemovalMenu=Ir para o Proximo Menu Remover"
+set "GlobalGoBack2SelectS2StartRemovingComponents=Volte e selecione: 'S' para "Iniciar a remocao de componentes"."
+set "txtStartingRemovingWindowsComponents=##### Iniciando a remocao de componentes ######################################"
+set "txtRemovingWindowsComponents=##### Removendo componentes ###################################################"
+set "txtFinishedRemovingWindowsComponents=##### Concluida a remocao de componentes ######################################"
+	 
+set "txtRemoveComponentsWithToolkiHelper01=Removendo os pacotes de componentes..."
+
 
 set "txtApplySaveChanges2SourceImages01=      MSMG Toolkit - Aplique e Salve as Alteracoes nas Imagens de Origem       "
 set "txtApplySaveChanges2SourceImages02=#### Comecando a Aplicar e Salvar as Alteracoes nas Imagens de Origem #########"
