@@ -1371,7 +1371,6 @@ set "txtApplySaveChanges2SourceImages13=##### Copying Finished #####"
 set "txtApplySaveChanges2SourceImages14pos01=Optimizing Source [install.wim, Index :"
 set "txtApplySaveChanges2SourceImages14pos01=WinRE.wim] Image..."
 
-
 set "txtImageIndex2Servicepos01=Enter the Image Index # [Range :"
 set "txtImageIndex2Servicepos02=ll"
 set "txtImageIndex2Servicepos03=uit"
