@@ -1,15 +1,14 @@
-::for CustomToolkit v12.3
-rem Build 2022-06-26
+::for CustomToolkit v12.4
+rem Build 2022-06-29
 rem copy to \Bin folder
 @echo OFF
 
 set "AvailableLocales=enGB;enUS;ptBR;ptPT"
 if /I "%1" neq "" (
-   for %%a in (%AvailableLocales%) do (
-       if /I "%1" equ "/%%a" if /I "%%a" equ "%LocaleArg:-=%" goto :%LocaleArg:~,2%
-   )
+	for %%a in (%AvailableLocales%) do (
+		if /I "%1" equ "/%%a" if /I "%%a" equ "%LocaleArg:-=%" goto :%LocaleArg:~,2%
+	)
 )
-
 :en
 color 1f
 set "GlobalEnterChoice=Enter Your Choice"
