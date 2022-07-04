@@ -3397,7 +3397,7 @@ set "txtRemoveWindowsComponentsUsingPackageListNote=Nota: Use apenas um dos meto
 set "txtRemoveWindowsComponentsUsingPackageStarting=##### Iniciando a Remocao de Componentes usando a Lista de Componentes ########"
 set "txtRemoveWindowsComponentsUsingPackageRemovingpos1=#### Removendo Componentes com o"
 set "txtRemoveWindowsComponentsUsingPackageRemovingpos2=usando a Lista de Componentes #########"
-set "txtRemoveWindowsComponentsUsingPackageFinished=#### Concluida a Remocao de Componentes usando a Lista de Componentes ##########"
+set "txtRemoveWindowsComponentsUsingPackageFinished=#### Concluida a Remocao de Componentes usando a Lista de Componentes #########"
 
 set "txtCleanupSourceImagesComponentResetBaseline1=O erro de fantasma SFC ocorre desde que o M^$ executou o comando"
 set "txtCleanupSourceImagesComponentResetBaseline2="DISM /Cleanup-Image" antes de executar o Sysprep. Este bug esta presente em"
