@@ -1929,9 +1929,7 @@ set "GlobalGoBack2SelectS2StartRemovingComponents=Go Back and Select: 'S' to "St
 set "GlobalStartingRemovingWindowsComponents=##### Starting Removing Windows Components ####################################"
 set "GlobalRemovingWindowsComponents=##### Removing Windows Components #############################################"
 set "GlobalFinishedRemovingWindowsComponents=##### Finished Removing Windows Components ####################################"
-set "txtRemoveComponentsWithToolkiHelper01=Removing the Component^(s^) Package^(s^)..."
-
-
+set "txtRemoveComponentsPackage=Removing the Component^(s^) Package^(s^)..."
 set "txtRemoveWindowsComponentsUsingPackageList=          MSMG Toolkit - Remove Windows Components Using Package List          "
 set "txtRemoveWindowsComponentsUsingPackageListLine1= Removing the packages without proper testing can break the OS and or it's"
 set "txtRemoveWindowsComponentsUsingPackageListLine2=functionalities."
@@ -3988,8 +3986,7 @@ set "GlobalGoBack2SelectS2StartRemovingComponents=Volte e selecione: 'S' para "I
 set "GlobalStartingRemovingWindowsComponents=##### Iniciando a Remocao de Componentes ######################################"
 set "GlobalRemovingWindowsComponents=##### Removendo Componentes ###################################################"
 set "GlobalFinishedRemovingWindowsComponents=##### Concluida a Remocao de Componentes ######################################"
-set "txtRemoveComponentsWithToolkiHelper01=Removendo os Pacotes de Componentes..."
-
+set "txtRemoveComponentsPackage=Removendo os Pacotes de Componentes..."
 set "txtRemoveWindowsComponentsUsingPackageList=       MSMG Toolkit - Remover Componentes Usando a Lista de Componentes        "
 set "txtRemoveWindowsComponentsUsingPackageListLine1=A remocao dos pacotes sem o teste adequado pode quebrar o Windows ou"
 set "txtRemoveWindowsComponentsUsingPackageListLine2=suas funcionalidades."
