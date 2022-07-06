@@ -3846,7 +3846,7 @@ set "txtquitmsg01=O SO de Origem esta carregado,"
 set "txtquitmsg02=escolha Salvar ou Descartar no Menu Principal - Aplicar"
 set "txtpercleanopera=Executando a operacao de pos-limpeza, aguarde..."
 set "txtpercleanoperamsg01=Agradecimentos e Creditos a todos do Forum MDL"
-set "txtpercleanoperamsg02=Saindo do MSMG CustomToolKit..."
+set "txtpercleanoperamsg02=Saindo do MSMG ToolKit..."
 
 goto :EOF
 
