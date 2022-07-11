@@ -1,6 +1,8 @@
-::for CustomToolkit v12.4
-rem Build 2022-06-29
-rem copy to \Bin folder
+::LOCALES
+rem Version 2022-07-10_v1
+rem copy to ".\Bin\LOCALES" folder
+::for Custom Toolkit
+rem Version 12.4 2022-06-29
 @echo OFF
 
 set "AvailableLocales=enGB;enUS;ptBR;ptPT"
