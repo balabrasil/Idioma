@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-11_v10
+rem Version 2022-07-12_v11
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -15,11 +15,12 @@ rem Adaptation and improvements for Toolkit made by @inTerActionVRI.
 set "AvailableLocales=enGB;enUS;ptBR;ptPT"
 if /I "%1" neq "" (
    for %%a in (%AvailableLocales%) do (
-       if /I "%1" equ "/%%a" if /I "%%a" equ "%LocaleArg:-=%" call "LOCALE_%LocaleArg:~,2%.cmd"
+       if /I "%1" equ "/%%a" if /I "%%a" equ "%LocaleArg:-=%" call "%~dp0LOCALE_%LocaleArg:~,2%.cmd"
    )
    goto :EOF
 )
-:enUS
+
+:en
 color 1f
 set "GlobalEnterChoice=Enter Your Choice :"
 set "GlobalChoice_Yes=es"
