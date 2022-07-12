@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-11_v8
+rem Version 2022-07-11_v9
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -13,7 +13,7 @@ if /I "%1" neq "" (
 )
 :en
 color 1f
-set "GlobalEnterChoice=Enter Your Choice"
+set "GlobalEnterChoice=Enter Your Choice ;"
 set "GlobalChoice_Yes=es"
 set "GlobalChoice_No=o"
 set "GlobalOption_GoBack=Go Back"
@@ -290,6 +290,7 @@ set "txtCopySource_frop=Do you want to remove it & continue ?"
 set "txtStartingCopyingSource=#### Starting Copying Source from Install Media Drive to ^<Install Media^> folder #######"
 set "txtGettingDVDDriveOptions=#### Getting DVD Drive Options ################################################"
 set "txtListingAvailableDVDDrive=Listing Available DVD Drive or USB Flash Drives..."
+set "txtEnterDVDDriveUSBFlash=Enter DVD Drive or USB Flash Drive Letter :"
 set "txtCantFindWindowsOSInstallation=Can't find Windows OS Installation files in the specified Drive Letter.."
 set "txtPleaseEnterCorrectDVD=Please enter the correct DVD Drive Letter.."
 set "txtCopyingSourceFromInstallMedia=#### Copying Source from Install Media Drive to ^<Install Media^> folder ################"
@@ -1530,6 +1531,7 @@ set "txtCopyPreActivationTokenFiles=Please copy Pre-Activation Token files to re
 set "txtCopyingPreActivationTokenFiles=Copying Pre-Activation Token files from"
 set "txtStartingIntegratingWin81PreActivationData=#### Starting Integrating Windows 8.1 Pre-Activation Data #####################"
 set "txtGettingWin81ActivationProductKey=#### Getting Windows 8.1 Activation Product Key Details #######################"
+set "txtEnterProductKey=Enter the Product Key with the '-'s :"
 set "txtIntegratingWin81PreActivation=#### Integrating Windows 8.1 Pre-Activation Data ##############################"
 set "txtIntegratingWin81ProductKey=Integrating Windows 8.1 Product Key"
 set "txtIntegratingWin81PreActivatedToken=Integrating Windows 8.1 Pre-Activated Token files..."
@@ -2540,7 +2542,7 @@ goto :EOF
 
 :pt
 color 0E
-set "GlobalEnterChoice=Digite sua escolha"
+set "GlobalEnterChoice=Digite sua escolha:"
 set "GlobalChoice_Yes=sim"
 set "GlobalChoice_No=ao"
 set "GlobalOption_GoBack=Voltar"
@@ -2817,6 +2819,7 @@ set "txtCopySource_frop=Deseja remove-la e continuar?"
 set "txtStartingCopyingSource=#### Iniciando a copia dos arquivos para a pasta ^<Install Media^> ############"
 set "txtGettingDVDDriveOptions=#### Obtendo opcoes de unidade de DVD  ########################################"
 set "txtListingAvailableDVDDrive=Listando unidades de DVD ou Pendrives disponiveis..."
+set "txtEnterDVDDriveUSBFlash=Digite a letra da unidade de DVD ou do Pendrive:"
 set "txtCantFindWindowsOSInstallation=Nao tem os arquivos de instalacao do Windows na unidade especificada."
 set "txtPleaseEnterCorrectDVD=Digite a letra da unidade de DVD correta."
 set "txtCopyingSourceFromInstallMedia=#### Copiando os arquivos do Windows para a pasta ^<Install Media^> ###########"
@@ -4057,6 +4060,7 @@ set "txtCopyPreActivationTokenFiles=Copie os arquivos do token de pre-ativacao p
 set "txtCopyingPreActivationTokenFiles=Copiando arquivos de token de pre-ativacao de"
 set "txtStartingIntegratingWin81PreActivationData=#### Iniciando a integracao de Dados de Pre-ativacao do Windows 8.1 ###########"
 set "txtGettingWin81ActivationProductKey=#### Obtendo detalhes da chave de ativacao do Windows 8.1 #####################"
+set "txtEnterProductKey=Digite a Chave do Produto com os '-':"
 set "txtIntegratingWin81PreActivation=#### Integrando dados de pre-ativacao do Windows 8.1 ##########################"
 set "txtIntegratingWin81ProductKey=Integrando a Chave do Windows 8.1"
 set "txtIntegratingWin81PreActivatedToken=Integrando arquivos de token pre-ativados do Windows 8.1..."
