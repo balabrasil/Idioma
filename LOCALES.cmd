@@ -13,7 +13,7 @@ if /I "%1" neq "" (
 )
 :en
 color 1f
-set "GlobalEnterChoice=Enter Your Choice ;"
+set "GlobalEnterChoice=Enter Your Choice :"
 set "GlobalChoice_Yes=es"
 set "GlobalChoice_No=o"
 set "GlobalOption_GoBack=Go Back"
