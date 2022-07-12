@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-10_v7
+rem Version 2022-07-11_v8
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -248,8 +248,8 @@ set "txtToolsMenu_op04ln1=Options"
 set "txtToolsMenu_op04ln2=Mount Windows Source Recovery Image [WinRE.wim]"
 set "txtToolsMenu_op05=Mount Windows Source Setup Boot Image [BOOT.wim]"
 set "txtToolsMenu_op_s=Start Mounting"
-set "txtselsouinstmnu=        MSMG Toolkit - Select Source from"
-set "txtselsouinstmnu2=        MSMG Toolkit - Select Source from ^<Install Media^> folder"
+set "SelectWIMinInstallMediaFolder=        MSMG Toolkit - Select Source from"
+set "SelectWIMinInstallMediaFolder2=        MSMG Toolkit - Select Source from ^<Install Media^> folder"
 set "txtselsouinstmsg01op01=Can't find Windows Setup "boot.wim" Image in"
 set "GlobalFolder3=folder"
 set "txtselsouinstmsg02op01=Please copy Windows Setup "boot.wim" Image to"
@@ -2776,8 +2776,8 @@ set "txtToolsMenu_op04ln1=Opcoes"
 set "txtToolsMenu_op04ln2=Monte a WinRE.wim"
 set "txtToolsMenu_op05=Monte o BOOT.wim"
 set "txtToolsMenu_op_s=Iniciar Montagem"
-set "txtselsouinstmnu=        MSMG Toolkit - Selecione a Imagem .WIM na pasta"
-set "txtselsouinstmnu2=        MSMG Toolkit - Selecione a Imagem .WIM na pasta ^<Install Media^>"
+set "SelectWIMinInstallMediaFolder=        MSMG Toolkit - Selecione a Imagem .WIM na pasta"
+set "SelectWIMinInstallMediaFolder2=        MSMG Toolkit - Selecione a Imagem .WIM na pasta ^<Install Media^>"
 set "txtselsouinstmsg01op01=Nao foi encontrado o "boot.wim" na pasta"
 set "GlobalFolder3="
 set "txtselsouinstmsg02op01=Copie o "boot.wim" para a pasta"
