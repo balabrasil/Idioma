@@ -1,6 +1,6 @@
 ::LOCALES
 rem Version 2022-07-10_v1
-rem copy to ".\Bin\LOCALES" folder
+rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
 @echo OFF
