@@ -4,7 +4,7 @@ rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
 
-:: The work, of all the transfer of the original texts of Toolkit and Custom Toolkit, creation of variables for translation from [en-US] and its translation to Portuguese [pt-BR] or [pt-PT] performed by the Maintainer, @Bira.
+:: The work, of all the transfer of the original texts of Toolkit and Custom Toolkit, creation of variables for translation from [en-US] and its translation to Portuguese [pt-BR] or [pt-PT] performed by the Maintainer, @bala1.
 
 :: Translation script adapted from the system available on the script "decrypt-multi-release v2020-10-21" by adguard.
 rem Suggestion/tip on this script made by @Bira;
