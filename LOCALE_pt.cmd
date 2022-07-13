@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v6
+rem Version 2022-07-13_v7
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -1972,7 +1972,6 @@ set "txtSelectCustomTweaksMenu=             MSMG Toolkit - Menu Selecionar Tweak
 set "txtBugFixWiFi=Correcao de Bug - WiFi sem conexao com a Internet"
 set "txtControlPanelnConfigs=Configuracoes pro Painel de Controle para ficar mais rapido"
 set "txtCustomDisableAutomaticallyInstallation=Desativar Instalacao Automatica para aplicativos de terceiros"
-set "txt4PreSuggested3RD="
 set "txtCustomDisableWindowsUpdateTweaks=Desativar Windows Update Personalizado"
 set "txtCustomWindowsDefenderTweaks=Personalizacao da Central e do Windows Defender"
 set "txtCustomWindowsErrorReportingPolicies=Politicas personalizadas do Relatorio de Erros"
