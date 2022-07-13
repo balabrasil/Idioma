@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-12_v8
+rem Version 2022-07-13_v1
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -58,7 +58,6 @@ set "GlobalFolder=folder..."
 set "Globalintegratlangpack03=to Windows Boot Image..."
 set "Globalintegratlangpack04=Copying Localized Windows Setup resources files to the Source DVD..."
 set "GlobalMountingImageRegistry=Mounting Image Registry..."
-set "GlobalUnMountingImageRegistry=Un-Mounting Image Registry..."
 set "EULA_menu=########################## MSMG Toolkit - EULA ################################"
 set "EULA_line01=The MSMG Toolkit is basically a tool to service, customize, add or remove"
 set "EULA_line02=features and components, enable or disable features to Windows operating"
@@ -2536,6 +2535,7 @@ set "txtWriteGenericEIcfg01ln02=Edition EI.cfg file to:"
 set "txtWriteGenericEIcfg03=#### Writing Finished #########################################################"
 set "txtStartingCleaningUp=Starting Cleaning Up..."
 set "txtCleaningUpImageRegistry=Cleaning Up Image Registry Mount Points..."
+set "GlobalUnMountingImageRegistry=Un-Mounting Image Registry..."
 set "txtCleaningUpImage=Cleaning Up Image Mount Points..."
 set "txtCleaningUpLogs=Cleaning Up Logs files..."
 set "txtCleaningUpTemporary=Cleaning Up Temporary files..."
