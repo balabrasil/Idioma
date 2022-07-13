@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v5
+rem Version 2022-07-13_v6
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -2184,15 +2184,15 @@ set "GlobalWindowsInstallationSource=Pasta da Origem .WIM"
 set "GlobalPleaseCopyInstallationSource=Copie os arquivos da Origem para"
 set "txtStartingBuildingDVDISO=#### Comecando a criar uma Imagem ISO de DVD ##################################"
 set "txtGettingBuildingDVDISO=#### Obtendo detalhes da Imagem ISO do DVD ####################################"
-set "txtGettingISOLabel=#### Obtendo o Nome do Rotulo ISO #############################################"
+set "txtGettingISOLabel=#### Inserindo o Nome do Rotulo ISO ###########################################"
 set "txtSelectInstallMedia=Selecione o rotulo para a Midia de Instalacao"
 set "txtAutoLabel=Rotulo Automatico"
 set "txtPersonalLabel=Rotulo Personalizado"
 set "txtEnterSelectAutoPersonal=Digite ['S'elecionar/'A'utomatico/'P'ersonalizado]"
 set "txtIfyouleavetheInstallMediaSourceline1=Se voce deixar o campo InstallMediaSource_ImageLabel vazio,"
-set "txtIfyouleavetheInstallMediaSourceline2=voce retornara nas opcoes "Obtendo o Nome do Rotulo ISO"."
+set "txtIfyouleavetheInstallMediaSourceline2=voce retornara nas opcoes "Inserindo o Nome do Rotulo ISO"."
 set "txtEntertheISOVolumeLabel=Digite o Rotulo da ISO ou apenas pressione ^<ENTER^> para deixar em branco"
-set "txtGettingISOFileName=#### Obtendo o Nome da ISO ####################################################"
+set "txtGettingISOFileName=#### Inserindo o Nome da ISO ##################################################"
 set "txtThenewISOfilewillbepos1=O novo arquivo ISO sera salvo na pasta"
 set "txtAutoFileName=Nome Automatico"
 set "txtPersonalFileName=Nome Personalizado"
@@ -2200,7 +2200,7 @@ set "txtEnterAutoPersonal=Digite ['A'utomatico/'P'ersonalizado]"
 set "txtEnterISOFileName=Digite o Nome da ISO:"
 set "txtBuildingDVDISOImage=#### Criando uma Imagem ISO de DVD ############################################"
 set "GlobalInstallMediaSourceImageLabel=Origem da Midia de Instalacao - Rotulo da Imagem:"
-set "txtISOFileName=ISO File Name                     :"
+set "txtISOFileName=Nome da ISO                       :"
 set "txtFinishedBuildingDVDISO=#### Concluida a criacao de uma Imagem ISO de DVD #############################"
 set "txtInstallMediaSource=Origem da Midia de Instalacao:"
 set "txtBurnDVDISOImage=            MSMG Toolkit - Gravar uma Imagem ISO em um disco de DVD            "
