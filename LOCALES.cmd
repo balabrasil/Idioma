@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v5
+rem Version 2022-07-13_v6
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -1979,8 +1979,7 @@ set "GlobalHideTaskbarWidgetsIcon=Hide Taskbar Widgets Icon"
 set "txtSelectCustomTweaksMenu=                   MSMG Toolkit - Select Custom Tweaks Menu                    "
 set "txtBugFixWiFi=Bug Fix - WiFi no Internet Connection"
 set "txtControlPanelnConfigs=Control Panel nConfigs and Settings for Fastest Windows"
-set "txtCustomDisableAutomaticallyInstallation=Custom Disable Automatically Installation"
-set "txt4PreSuggested3RD=for PreSuggested 3RD Party Apps"
+set "txtCustomDisableAutomaticallyInstallation=Disable Automatically Installation for PreSuggested 3RD Party Apps"
 set "txtCustomDisableWindowsUpdateTweaks=Custom Disable Windows Update Tweaks"
 set "txtCustomWindowsDefenderTweaks=Custom Windows Defender and Windows Defender Security Center Tweaks"
 set "txtCustomWindowsErrorReportingPolicies=Custom Windows Error Reporting Policies"
