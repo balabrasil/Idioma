@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v8
+rem Version 2022-07-13_v9
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -2188,9 +2188,9 @@ set "txtSelectInstallMedia=Selecione o rotulo para a Midia de Instalacao"
 set "txtAutoLabel=Rotulo Automatico"
 set "txtPersonalLabel=Rotulo Personalizado"
 set "txtEnterSelectAutoPersonal=Digite ['S'elecionar/'A'utomatico/'P'ersonalizado]"
-set "txtIfyouleavetheInstallMediaSourceline1=Se voce deixar o campo InstallMediaSource_ImageLabel vazio,"
+set "txtIfyouleavetheInstallMediaSourceline1=Se voce deixar o rotulo em branco,"
 set "txtIfyouleavetheInstallMediaSourceline2=voce retornara nas opcoes "Inserindo o Nome do Rotulo ISO"."
-set "txtEntertheISOVolumeLabel=Digite o Rotulo da ISO ou apenas pressione ^<ENTER^> para deixar em branco"
+set "txtEntertheISOVolumeLabel=Digite o Rotulo da ISO ou pressione ^<ENTER^> para deixar em branco"
 set "txtGettingISOFileName=#### Inserindo o Nome da ISO ##################################################"
 set "txtThenewISOfilewillbepos1=O novo arquivo ISO sera salvo na pasta"
 set "txtAutoFileName=Nome Automatico"
