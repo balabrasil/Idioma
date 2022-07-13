@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v7
+rem Version 2022-07-13_v8
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -2107,7 +2107,7 @@ set "GlobalPerformingBootImageComponentCleanuppos2=..."
 set "txtStartingCleaningSourceImagesComponentCleanupResetBase=#### Iniciando a limpeza de Imagem e componentes com ResetBase ################"
 set "txtCannotPerformImageComponentCleanupPending=Nao e possivel executar a limpeza de componente quando o Pending.xml esta presente..."
 set "txtFinishedCleaningSourceImagesComponentCleanupResetBase=#### Concluida a limpeza de Imagem e componentes com ResetBase ################"
-set "txtApplySaveChanges2SourceImages01=       MSMG Toolkit - Aplique e Salve as Alteracoes na Imagem da Origem        "
+set "txtApplySaveChanges2SourceImages01=        MSMG Toolkit - Aplica e Salva as Alteracoes na Imagem da Origem        "
 set "txtApplySaveChanges2SourceImages02=#### Comecando a Aplicar e Salvar as Alteracoes na Imagem da Origem ###########"
 set "txtApplySaveChanges2SourceImages03=Deseja limpar as pastas da Imagem?"
 set "txtApplySaveChanges2SourceImages04=Limpando a Imagem..."
