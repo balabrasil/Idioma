@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v4
+rem Version 2022-07-13_v5
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -213,7 +213,7 @@ set "txtvirtcreimedline03=E remocao dos Indices da Imagem que nao foram selecion
 set "txtvirtcreimedline04=Este procedimento sera ignorado se nenhuma das duas edicoes estiver"
 set "txtvirtcreimedline05=disponivel na Imagem."
 set "txtvirtcreimedline06=Em seguida, ira para:"
-set "txtvirtcreimedline07="Criacao Virtual de Edicoes de Indice da Imagem"
+set "txtvirtcreimedline07=Criacao Virtual de Edicoes de Indice da Imagem"
 set "txtvirtcreimedop=Indices da Imagem Selecionados:"
 set "txtvirtcreimedformop1line01=e a opcao selecionada para formato da Imagem."
 set "txtvirtcreimedformop1line02=Salve a ISO no formato .WIM ou .ESD."
@@ -347,9 +347,9 @@ set "txtIntegrateLangPack_05=integrar um pacote de idioma, as alteracoes especif
 set "txtIntegrateLangPack_06=atualizacao nao serao aplicadas e voce tera que reintegrar a atualizacao."
 set "txtIntegrateLangPack_07=Sempre integre os pacotes de idiomas antes de integrar as atualizacoes."
 set "txtIntegrateLangPack_08=             MSMG Toolkit - Menu Integrar Pacotes de Idiomas"
-set "GlobalCantIntegrate=Voce nao pode "Integrar na Imagem:"
-set "txtBootImageOptions01=de Boot" agora."
-set "txtBootImageOptions02=WinRe" agora."
+set "GlobalCantIntegrate=Voce nao pode Integrar na Imagem:"
+set "txtBootImageOptions01=de Boot agora."
+set "txtBootImageOptions02=WinRe agora."
 set "txtIntegrateLangPack_10=A Imagem de Boot nao esta montada."
 set "txtIntegrateLangPack_11=Va para "Menu Ferramentas" e monte a "Imagem de Boot"."
 set "txtIntegrateLangPack_13=A Imagem WinRe nao esta montada.
@@ -484,7 +484,7 @@ set "GlobalGoToolsMenuMountBoot=Va para "Menu Ferramentas" e monte a "Imagem de 
 set "GlobalCantIntegrateWinRE=Voce nao pode "Integrar na Imagem WinRE" agora."
 set "GlobalWinREnoMounted=A Imagem WinRE nao esta montada."
 set "GlobalGoToolsMenuMountWinRE=Va para "Menu Ferramentas" e monte a "Imagem WinRE"."
-set "GlobalCantIntegrate=Voce nao pode "Integrar na:"
+set "GlobalCantIntegrate=Voce nao pode Integrar na:"
 set "txtBootImageOptions=Imagem de Boot"
 set "GlobalBootInstallandWinReImageOptions=Imagem de Boot, .WIM e WinRE"
 set "txtInstallandWinReImageOptions=Imagem .WIM e WinRE"
@@ -2101,7 +2101,7 @@ set "txtCleanupSourceImagesComponentResetBaseline3=todas as versoes de Imagem ig
 set "txtCleanupSourceImagesComponentResetBaseline4=integrado incluido LTSC oficial 2021."
 set "txtCleanupSourceImagesComponentResetBaseline5=A unica maneira de corrigir o "bug fantasma do SFC" e executando o comando"
 set "txtCleanupSourceImagesComponentResetBaseline6="SFC /SCANNOW" uma vez apos a instalacao."
-set "txtDoyouWant2CleanupSourceImages="Deseja limpar a Imagem da Origem?"
+set "txtDoyouWant2CleanupSourceImages=Deseja limpar a Imagem da Origem?"
 set "GlomalCleanupSourceImagesComponentCleanupResetBase=      MSMG Toolkit - Limpar Imagem da Origem e de Componentes e ResetBase      "
 set "GlobalPerformingBootImageComponentCleanuppos1=Executando a Limpeza da Imagem [boot.wim, Indice:"
 set "GlobalPerformingBootImageComponentCleanuppos2=..."
