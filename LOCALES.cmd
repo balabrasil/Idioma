@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v1
+rem Version 2022-07-13_v5
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -221,7 +221,7 @@ set "txtvirtcreimedline03=And act to remove the unselected Image Indexes."
 set "txtvirtcreimedline04=This procedure will be skipped if none of"
 set "txtvirtcreimedline05=both Editions is available in the Image."
 set "txtvirtcreimedline06=It will then, take you to :"
-set "txtvirtcreimedline07="Virtual Create - Needed Image Index Editions"
+set "txtvirtcreimedline07=Virtual Create - Needed Image Index Editions"
 set "txtvirtcreimedop=Selected Image Indexes :"
 set "txtvirtcreimedformop1line01=is the current selected Option for Image Format."
 set "txtvirtcreimedformop1line02=Save the ISO with Install Image as WIM or ESD format."
@@ -355,9 +355,9 @@ set "txtIntegrateLangPack_05=you integrate a language pack, The language-specifi
 set "txtIntegrateLangPack_06=contained in the update are not applied and you will have to re-integrate"
 set "txtIntegrateLangPack_07=the update. Always integrate language packs before you integrate updates."
 set "txtIntegrateLangPack_08=             MSMG Toolkit - Integrate Windows Language Packs Menu"
-set "GlobalCantIntegrate=You can't "Integrate to Windows Setup:"
-set "txtBootImageOptions01=Boot Image" right now."
-set "txtBootImageOptions02=Recovery Image" right now."
+set "GlobalCantIntegrate=You can't Integrate to Windows Setup:"
+set "txtBootImageOptions01=Boot Image right now."
+set "txtBootImageOptions02=Recovery Image right now."
 set "txtIntegrateLangPack_10=Windows Setup Boot Image is not selected... Not mounted."
 set "txtIntegrateLangPack_11=Go to "Tools Menu" and Mount "Windows Setup Boot Image"."
 set "txtIntegrateLangPack_13=Windows Recovery Image is not selected... Not mounted."
@@ -492,10 +492,10 @@ set "GlobalGoToolsMenuMountBoot=Go to "Tools Menu" and Mount "Windows Setup Boot
 set "GlobalCantIntegrateWinRE=You can't "Integrate to Windows Recovery Image" right now."
 set "GlobalWinREnoMounted=Windows Recovery Image is not selected... Not mounted."
 set "GlobalGoToolsMenuMountWinRE=Go to "Tools Menu" and Mount "Windows Recovery Image"."
-set "GlobalCantIntegrate=You can't "Integrate to Windows Setup:"
-set "txtBootImageOptions=Boot Image" Option"
-set "GlobalBootInstallandWinReImageOptions=Boot, Install ^& Recovery Image" Option"
-set "txtInstallandWinReImageOptions=Install ^& Recovery Image" Option"
+set "GlobalCantIntegrate=You can't Integrate to Windows Setup:"
+set "txtBootImageOptions=Boot Image Option"
+set "GlobalBootInstallandWinReImageOptions=Boot, Install ^& Recovery Image Option"
+set "txtInstallandWinReImageOptions=Install ^& Recovery Image Option"
 set "txtIntegrateDriversNoDriversSelected=No Windows Drivers have been selected for Integration..."
 set "txtIntegrateDrivers_11=     MSMG Toolkit - Integrate Windows Drivers to Windows Setup Boot Image"
 set "txtIntegrateDrivers_12=     MSMG Toolkit - Integrate Windows Drivers to Windows Installation Image"
@@ -2109,7 +2109,7 @@ set "txtCleanupSourceImagesComponentResetBaseline3=image version equal to or gre
 set "txtCleanupSourceImagesComponentResetBaseline4=^(included Official LTSC 2021^) and "DISM /Cleanup-Image" command executed."
 set "txtCleanupSourceImagesComponentResetBaseline5=The only way to fix the "SFC ghost bug" is by running the "SFC /SCANNOW""
 set "txtCleanupSourceImagesComponentResetBaseline6=command once after installation."
-set "txtDoyouWant2CleanupSourceImages="Do you want to Cleanup Source Images ?"
+set "txtDoyouWant2CleanupSourceImages=Do you want to Cleanup Source Images ?"
 set "GlomalCleanupSourceImagesComponentCleanupResetBase=   MSMG Toolkit - Cleanup Source Images with Component Cleanup ^& ResetBase    "
 set "GlobalPerformingBootImageComponentCleanuppos1=Performing [boot.wim, Index :"
 set "GlobalPerformingBootImageComponentCleanuppos2=Image Component Cleanup..."
