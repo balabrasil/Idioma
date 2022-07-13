@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-12_v8
+rem Version 2022-07-13_v1
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -50,7 +50,6 @@ set "GlobalFolder=..."
 set "Globalintegratlangpack03=para a imagem de Boot..."
 set "Globalintegratlangpack04=Copiando arquivos para a pasta de instalacao DVD da Toolkit..."
 set "GlobalMountingImageRegistry=Montando Imagem das Entradas de Registro..."
-set "GlobalUnMountingImageRegistry=Desmontando Imagem das Entradas de Registro..."
 set "EULA_menu=######################### MSMG Toolkit - Termos de Uso ########################"
 set "EULA_line01=A MSMG Toolkit e basicamente uma ferramenta para atender, personalizar,"
 set "EULA_line02=adicionar ou remover recursos e componentes, habilitar ou desabilitar"
@@ -2528,7 +2527,8 @@ set "txtWriteGenericEIcfg01ln02=na pasta:"
 set "txtWriteGenericEIcfg03=#### Gravacao Concluida #######################################################"
 set "txtStartingCleaningUp=Iniciando a limpeza..."
 set "txtCleaningUpImageRegistry=Limpando pontos de montagem do registro da imagem..."
-set "txtCleaningUpImage=Limpando pontos de montagem da imagem..."
+set "GlobalUnMountingImageRegistry=Desmontando imagem das entradas de registro..."
+set "txtCleaningUpImage=Desmontando indices da imagem..."
 set "txtCleaningUpLogs=Limpando arquivos de Logs..."
 set "txtCleaningUpTemporary=Limpando arquivos temporarios..."
 set "txtFinishedCleaningUp=Limpeza finalizada..."
