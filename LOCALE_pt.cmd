@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v9
+rem Version 2022-07-13_v10
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -301,11 +301,11 @@ set "txtCopyingSourceFromInstallMediaDrivepos02=para a pasta"
 set "txtCopyingFromInstallMedia=A copia dos arquivos do DVD pode levar algum tempo, aguarde..."
 set "txtCopyingComplete=Copia Completa..."
 set "txtFinishedCopyingSourceFromInstallMedia=#### Concluida a copia dos arquivos para a pasta ^<Install Media^> ############"
-set "txtExtractSource_01=MSMG Toolkit - Extraia a .WIM de:"
-set "txtExtractSource_02=Da ISO ou install.wim na pasta ^<Install Media^>"
-set "GlobalCantFindWindowsInstallMedia=A ISO ou a Imagem .WIM nao esta na pasta:"
-set "GlobalPleasePutWindowsInstallMediaISO=Coloque o arquivo ISO ou a Imagem .WIM"
-set "GlobalIntoOneOfTheRespectiveFolders=dentro das respectivas pastas..."
+set "txtExtractSource_01=  MSMG Toolkit - Extraia a Imagem .WIM da ISO para na pasta ^<Install Media^>  "
+set "txtExtractSource_02="
+set "GlobalCantFindWindowsInstallMedia=A ISO ou a Imagem .WIM nao estao nas pastas:"
+set "GlobalPleasePutWindowsInstallMediaISO=Coloque o arquivo ISO ou a Imagem .WIM dentro das respectivas pastas..."
+set "GlobalIntoOneOfTheRespectiveFolders="
 set "txtExtractSource_07op01=A pasta"
 set "txtExtractSource_07op02=nao esta vazia..."
 set "txtExtractSource_08=##### Iniciando a extracao da .WIM de:"
