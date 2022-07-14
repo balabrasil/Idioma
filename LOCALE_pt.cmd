@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-14_v2
+rem Version 2022-07-14_v3
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -197,7 +197,7 @@ set "txtexpapptofile=Exportar associacao de aplicativos para XML"
 set "txtremovassoapp=Remover XML de associacao de aplicativos"
 set "txtimpassoapp=Importar associacao personalizada de aplicativos de XML"
 set "txtimpcutmenlay=Importar layout personalizado do menu Iniciar de XML"
-set "txtselofftw=Selecione Tweaks Oficiais"
+set "txtselofftw=Selecione Tweaks Oficiais
 set "txtselcusttw=Selecione o Tweaks Personalizados"
 set "txtDISMEnableFeaturesAutomatedMenu=                      Menu de Ativacao de Recursos Automatizado do DISM"
 set "txtredfetlistpre=Ler Lista de Recursos para habilitar Recursos"
@@ -345,9 +345,9 @@ set "txtIntegrateLangPack_05=integrar um pacote de idioma, as alteracoes especif
 set "txtIntegrateLangPack_06=atualizacao nao serao aplicadas e voce tera que reintegrar a atualizacao."
 set "txtIntegrateLangPack_07=Sempre integre os pacotes de idiomas antes de integrar as atualizacoes."
 set "txtIntegrateLangPack_08=             MSMG Toolkit - Menu Integrar Pacotes de Idiomas"
-set "GlobalCantIntegrate=Voce nao pode Integrar na Imagem:"
-set "txtBootImageOptions01=de Boot agora."
-set "txtBootImageOptions02=WinRe agora."
+set "GlobalCantIntegrate=Voce nao pode 'Integrar na Imagem:"
+set "txtBootImageOptions01=de Boot' agora."
+set "txtBootImageOptions02=WinRe' agora."
 set "txtIntegrateLangPack_10=A Imagem de Boot nao esta montada."
 set "txtIntegrateLangPack_11=Va para "Menu Ferramentas" e monte a "Imagem de Boot"."
 set "txtIntegrateLangPack_13=A Imagem WinRe nao esta montada.
@@ -2519,9 +2519,9 @@ set "txtDownloadFile01=O arquivo"
 set "txtDownloadFile02=esta presente."
 set "txtCopyGenericEIcfg01=#### Copiando arquivo EI.cfg generico na pasta:"
 set "txtCopyGenericEIcfg02= #####"
-set "txtWriteGenericEIcfg01ln01=#### Gravando arquivo EI.cfg de"
+set "txtWriteGenericEIcfg01ln01=#### Copiando arquivo EI.cfg de"
 set "txtWriteGenericEIcfg01ln02=na pasta:"
-set "txtWriteGenericEIcfg03=#### Gravacao Concluida #######################################################"
+set "txtWriteGenericEIcfg03=#### Concluida a copia do arquivo EI.cfg ######################################"
 set "txtStartingCleaningUp=Iniciando a limpeza..."
 set "txtCleaningUpImageRegistry=Limpando pontos de montagem do registro da Imagem..."
 set "GlobalUnMountingImageRegistry=Desmontando Imagem das entradas de registro..."
