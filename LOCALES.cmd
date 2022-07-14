@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-13_v10
+rem Version 2022-07-14_v1
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -39,7 +39,6 @@ set "GlobalChoice_continue=Do you want to Continue ? : "
 set "GlobalOption_Continue=Continue"
 set "GlobalOption_Return2Change=Return for make other Changes"
 set "GlobalSourceOS_NotSelected=Source OS is not selected, please do select source from "Source" menu..."
-set "GlobalSourceOS_osload=Source OS Image Registry is loaded, please do unload it using Tools-^>Options..."
 set "Globalmenuremovepackcomplist=Remove Windows Components Using Package List"
 set "Globalcustomenu=Customize Menu"
 set "Globalfinishappltw=#### Finished Applying Tweaks #################################################"
