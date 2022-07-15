@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-14_v4
+rem Version 2022-07-14_v5
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -2242,6 +2242,7 @@ set "txtStartingFormattingUSBFlashDrive=#### Iniciando a formatacao do Pendrive 
 set "txtEnterUSBFlashDriveBootType=Digite o Tipo de Boot do Pendrive"
 set "GlobalAreYouSureWantFormat=Deseja realmente formatar"
 set "GlobalFormattingUSBFlashDrivepos1=Formatando o Pendrive"
+set "Global_in=em"
 set "GlobalFormattingUSBFlashDrivepos2=cancelada..."
 set "GlobalStoppedFormattingUSBFlashDrive=#### Parado a formatacao do Pendrive ##########################################"
 set "GlobalFinishedFormattingUSBFlashDrive=#### Concluida a formatacao do Pendrive ########################################"
