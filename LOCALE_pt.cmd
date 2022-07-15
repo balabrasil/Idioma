@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-14_v3
+rem Version 2022-07-14_v4
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -657,6 +657,8 @@ set "txtIntegrateFrameworkandOthers_124=Integrando o pacote Windows Servicing St
 set "txtIntegrateFrameworkandOthers_125=Integrando o pacote Windows Servicing Stack Update ^(SSU^) ^(KB5006749^)..."
 set "txtIntegrateFrameworkandOthers_126=Integrando o pacote Windows SHA-2 Code Update ^(KB4474419^)..."
 set "txtIntegrateFrameworkandOthers_127=Aplicar atualizacao de seguranca do Windows 7 ^(ESU^) patch supressor..."
+set "txtIntegratingWindowsEdgeChromiumPackage=Integrando o pacote Edge Chromium..."
+set "txtImportingWindowsEdgeChromiumRegistry=Importando as configuracoes de registro do Edge Chromium..."
 set "txtIntegrateFrameworkandOthers_128=Integrando o pacote Navegador Microsoft Edge Chromium..."
 set "txtIntegrateFrameworkandOthers_129=Integrando o pacote basico Politica de Grupo Navegador Microsoft Edge Chromium"
 set "txtIntegrateFrameworkandOthers_130pos01=Integrando a Politica de Grupo do Navegador Microsoft Edge Chromium"
@@ -2107,7 +2109,7 @@ set "txtCannotPerformImageComponentCleanupPending=Nao e possivel executar a limp
 set "txtFinishedCleaningSourceImagesComponentCleanupResetBase=#### Concluida a limpeza de Imagem e componentes com ResetBase ################"
 set "txtApplySaveChanges2SourceImages01=        MSMG Toolkit - Aplica e Salva as Alteracoes na Imagem da Origem        "
 set "txtApplySaveChanges2SourceImages02=#### Comecando a Aplicar e Salvar as Alteracoes na Imagem da Origem ###########"
-set "txtApplySaveChanges2SourceImages03=Deseja limpar as pastas da Imagem?"
+set "txtDoYouWant2CleanUpImageFolders=Deseja limpar as pastas da Imagem?"
 set "txtApplySaveChanges2SourceImages04=Limpando a Imagem..."
 set "txtApplySaveChanges2SourceImages05=Limpando arquivos de log e pastas temporarias..."
 set "txtApplySaveChanges2SourceImages06=Concluida a limpeza da Imagem."
