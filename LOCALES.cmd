@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-14_v4
+rem Version 2022-07-14_v5
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -2256,6 +2256,7 @@ set "GlobalFinishedFormattingUSBFlashDrive=#### Finished Formatting USB Flash Dr
 set "txtDISKPARTlISTvOLUME=DISKPART.exe LIST VOLUME command - for listing Removable USB Flash Devices.    "
 set "txtFormattingUSBFlashDrive=#### Formatting USB Flash Drive ###############################################"
 set "GlobalFormattingUSBFlashDrive=Formatting USB Flash Drive"
+set "Global_in=in"
 set "txtFormatPleaseWait=Format, Please wait..."
 set "txtFormatComplete=Format, complete..."
 set "txtMultiImageIndexDeletion=Multi Image Index Deletion"
