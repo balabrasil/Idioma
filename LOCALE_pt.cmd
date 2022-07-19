@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-18_v1
+rem Version 2022-07-17_v2
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -47,7 +47,7 @@ set "txtRestoringPreviouslySelectedSource=#### Restaurando informacoes da Origem
 set "GlobalToolkitCannotServiceWindows10and11=A Toolkit nao pode trabalhar com Windows 10 ou 11 sendo o sistema hospedeiro o Windows 7."
 set "GlobalToolkitRequiresWindows81and10and11=E necessario um sistema hospedeiro Windows 8.1/10 ou 11 para trabalhar com Windows 10 ou 11."
 set "GlobalDoYouWantMountBoot=Deseja Montar a Imagem de Boot?"
-set "GlobalDoYouWantMountWinRe=Deseja Montar a Imagem de WinRe?"
+set "GlobalDoYouWantMountWinRe=Deseja Montar a Imagem WinRe?"
 set "GlobalChoice_Remove=emove"
 set "txtIsBootImageSelected=A Imagem de Boot esta selecionada?"
 set "txtIsRecoveryImageSelected=A Imagem WimRE esta selecionada?"
@@ -67,13 +67,13 @@ set "GlobalEnterChoice=Digite sua escolha:"
 set "txtSourceMenu=                         MSMG Toolkit - Menu Origem                            "
 set "txtSourceMenu_msg01=A install.wim da Origem ja esta montada."
 set "GlobalSourceOS_ImageRegistryLoaded=O Registro SO da Origem esta montado, desmonte-o em Ferramentas-^>Opcoes"
-set "txtSourceMenu_op01pt01=Carregue a install.wim na pasta"
+set "txtSourceMenu_op01pt01=Carregue a imagem install.wim da pasta"
 set "GlobalFolder2="
-set "txtSourceMenu_op02=Copiar a install.wim da midia de instalacao"
-set "txtSourceMenu_op03=Extrair a install.wim do arquivo ISO da midia de instalacao ou OEM IMG"
-set "txtSourceMenu_op04=Extrair Imagem install.wim da Imagem install.esd"
-set "txtSourceMenu_op05pt01=Extrair install.wim da:"
-set "txtSourceMenu_op05pt02=Microsoft's Media Creation Tool ou Imagem ESD personalizada"
+set "txtSourceMenu_op02=Copiar a imagem install.wim do DVD de instalacao"
+set "txtSourceMenu_op03=Extrair a imagem install.wim da ISO do DVD de instalacao ou OEM IMG"
+set "txtSourceMenu_op04=Extrair a imagem install.wim da Imagem install.esd"
+set "txtSourceMenu_op05pt01=Extrair a imagem install.wim da:"
+set "txtSourceMenu_op05pt02=Microsoft's Media Creation Tool ou da imagem ESD personalizada"
 set "GlobalOption_GoBack=Voltar"
 set "txtIntegrateMenu=                        MSMG Toolkit - Menu Integrar"
 set "txtWindowsLanguagePacks=Pacotes de Idiomas"
