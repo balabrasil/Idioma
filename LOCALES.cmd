@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-19_v2
+rem Version 2022-07-20_v1
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.4 2022-06-29
@@ -234,10 +234,12 @@ set "txtApplySaveChangesSourceImages=Apply ^& Save Changes to Source Images"
 set "txtDiscardChangesUnmountSource=Discard Changes ^& Unmount Source Images"
 set "txtSelectTargetMenu=                      MSMG Toolkit - Select Target Menu"
 set "txtSelectTarget_msg=Source OS is selected, please do save or discard source from "Apply" menu"
-set "txtSelectTargetMenu_op1=Make a DVD ISO Image"
+set "txtSelectTargetMenu_op1=Make a DVD ISO Image from"
 set "txtSelectTargetMenu_op2=Burn an ISO Image to DVD"
-set "txtSelectTargetMenu_op3=Copy Source to USB Flash Drive"
-set "txtSelectTargetMenu_op4=Sync Source Boot ^& Install Images to USB Flash Drive"
+set "txtSelectTargetMenu_op3=Copy Source"
+set "txtSelectTargetMenu_op3pos2=to USB Flash Drive"
+set "txtSelectTargetMenu_op4=Sync Source Boot ^& Install Images"
+set "txtSelectTargetMenu_op4pos2=to USB Flash Drive"
 set "txtSelectTargetMenu_op5=Burn an ISO Image to Bootable USB Flash Drive"
 set "txtSelectTargetMenu_op6=Format a USB Flash Drive"
 set "txtToolsMenu=                         MSMG Toolkit - Tools Menu"
