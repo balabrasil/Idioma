@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-22_v1
+rem Version 2022-07-22_v2
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-21
@@ -502,20 +502,20 @@ set "txtFinishedIntegratingDriversWimRe=#### Concluida a integracao de drivers n
 set "GlobalTheseDriversOnlyExported=Esses drivers sao exportados apenas para fins de backup."
 set "txtNoteItNotPossibleDifferent=Obs. Nao e possivel integrar drivers para arquiteturas diferentes."
 set "GlobalNoteItNotPossibleWindows=Obs. Nao e possivel integrar drivers deste Windows"
-set "txtExportDrivers_01line01=         Os drivers exportados do hospedeiro sao de uma versao anterior     "
-set "txtExportDrivers_01line02=                     do Windows que esta Montado.                           "
-set "txtExportDrivers_02line01=Obs. Talvez seja possivel integrar drivers deste"
-set "txtExportDrivers_02line02pos01=Windows"
-set "txtExportDrivers_02line02pos02=Build"
-set "txtExportDrivers_02line02pos03=SO do hospedeiro.
-set "txtExportDrivers_03line01=Deseja copiar os Drivers Exportados para a pasta"
-set "txtExportDrivers_03line02="
-set "txtExportDrivers_03line03=dai voce podera fazer essa integracao?"
-set "txtExportDrivers_04=Faca o backup de drivers pre-existentes e, em seguida,"
-set "txtExportDrivers_05=Exporte e copie os drivers exportados."
-set "txtExportDrivers_06=Obs. O backup renomeara a pasta Drivers pre-existente."
-set "txtExportDrivers_07=Tanto Exportar quanto Copiar substituirao os drivers existentes."
-set "txtExportDrivers_08=Apenas exportar os drivers para fins de backup."
+set "txtExportDriversline1=         Os drivers exportados do hospedeiro sao de uma versao anterior     "
+set "txtExportDriversline2=                     do Windows que esta Montado.                           "
+set "txtExportDriversline3=Obs. Talvez seja possivel integrar drivers deste"
+set "txtExportDriversline4pos1=Windows"
+set "txtExportDriversline4pos2=Build"
+set "txtExportDriversline4pos3=SO do hospedeiro.
+set "txtExportDriversline5=Deseja copiar os Drivers Exportados para a pasta"
+set "txtExportDriversline6pos2="
+set "txtExportDriversline7=dai voce podera fazer essa integracao?"
+set "txt1ExportDriversline1=Faca o backup de drivers pre-existentes e, em seguida,"
+set "GlobalBackupPreExistingDrivers=Exporte e copie os drivers exportados."
+set "txt1ExportDriversline3=Obs. O backup renomeara a pasta Drivers pre-existente."
+set "txt2ExportDriversline2=Tanto Exportar quanto Copiar substituirao os drivers existentes."
+set "txt3ExportDrivers=Apenas exportar os drivers para fins de backup."
 set "GlobalExportDrivers=Renomeando pasta de:"
 set "txtCopyingAllExportedDrivers=Copiando todos os drivers exportados de:"
 set "txtFinishedDuplicatingDrivers=Concluida a Exportacao dos Drivers."
