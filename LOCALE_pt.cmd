@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-21_v1
+rem Version 2022-07-21_v2
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-21
@@ -403,7 +403,8 @@ set "txtStartingIntegratingLanguagePacksBoot=#### Iniciando a integracao de paco
 set "txtStartingIntegratingLanguagePacksWim=#### Iniciando a integracao de pacotes de idiomas na Imagem install.wim ##############"
 set "txtStartingIntegratingLanguagePacksWimRe=#### Iniciando a integracao de pacotes de idiomas na Imagem WinRe #############"
 set "GlobalImage=Imagem                  :"
-set "GlobalImageIndex=Indice da Imagem        :"
+set "GlobalImageIndexes=Indices da Imagem        :"
+set "GlobalImageIndex=Indice da Imagem         :"
 set "GlobalImageArchitecture=Arquitetura da Imagem   :"
 set "GlobalImageVersion=Versao da Imagem        :"
 set "txtIntegratingLanguagePacksBoot=#### Integrando os pacotes de idiomas na Imagem de Boot #######################"
@@ -516,7 +517,7 @@ set "txtExportDrivers_05=Exporte e copie os drivers exportados."
 set "txtExportDrivers_06=Obs. O backup renomeara a pasta Drivers pre-existente."
 set "txtExportDrivers_07=Tanto Exportar quanto Copiar substituirao os drivers existentes."
 set "txtExportDrivers_08=Apenas exportar os drivers para fins de backup."
-set "GlobalExportDrivers_09=Renomeando pasta de:"
+set "GlobalExportDrivers=Renomeando pasta de:"
 set "txtCopyingAllExportedDrivers=Copiando todos os drivers exportados de:"
 set "txtFinishedDuplicatingDrivers=Concluida a Exportacao dos Drivers."
 set "txtIntegrateMicrosoftNETFramework35=            MSMG Toolkit - Integrar Microsoft .NET Framework 3.5               "
@@ -2474,11 +2475,11 @@ set "txtIndexArchName=^| Indice ^| Arq. ^| Nome"
 set "txtImageIndexServicepos01=Digite o Indice da Imagem # [Intervalo:"
 set "txtImageIndexServicepos02=todos"
 set "txtImageIndexServicepos03=sair"
-set "txtImageIndexService02=Escolha um Indice da Imagem da Origem [install.wim]..."
-set "txtImageIndexService03line1=Obs. Ele sera usado para otimizar o WinRE e copiar para todos os Indices."
-set "txtImageIndexService03line2=Tambem e usado para o recurso "Atualizar a Midia de Instalacao"."
-set "txtImageIndexService04pos01=Escolha um dos Indices apresentados como Origem"
-set "txtImageIndexService04pos02=:"
+set "txtChooseOneInstallWimIndexline1=Escolha um Indice da Imagem da Origem [install.wim]..."
+set "txtChooseOneInstallWimIndexline2=Obs. Ele sera usado para otimizar o WinRE e copiar para todos os Indices."
+set "txtChooseOneInstallWimIndexline3=Tambem e usado para o recurso "Atualizar a Midia de Instalacao"."
+set "txtChooseOneChosenIndexespos1=Escolha um dos Indices apresentados como Origem"
+set "txtChooseOneChosenIndexespos2=:"
 set "txtMountingImageGetCurrent=Montando Imagem para obter informacoes"
 set "txtReadingGettingCurrentImage=Lendo e obtendo informacoes da Imagem"
 set "txtDiscardingUnMounting=Descartando e Desmontando Imagem [install.wim, Indice:"
