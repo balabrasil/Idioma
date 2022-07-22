@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-22_v2
+rem Version 2022-07-22_v3
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-21
@@ -1067,12 +1067,12 @@ set "txtFinishedIntegratingWindowsISOBurnerAddonFeature=#### Finished Integratin
 set "txtFinishedIntegratingWindowsMediaCenterAddonFeature=#### Finished Integrating Windows Media Center Add-on Feature #################"
 set "txtFinishedIntegratingWindowsMediaPlayerAddonFeature=#### Finished Integrating Windows Media Player Premium Codecs Features ########"
 set "txtFinishedIntegratingWindowsMobilityCenterAddonFeature=#### Finished Integrating Windows Mobility Center Add-on Feature ##############"
-set "txtFinishedIntegratingWindowsWindowsParentalAddonFeature=#### Finished Integrating Windows Parental Control Add-on Feature #############"
-set "txtFinishedIntegratingWindowsWindowsPhotoViewerAddonFeature=#### Finished Integrating Windows Photo Viewer Add-on Feature #################"
-set "txtFinishedIntegratingWindowsWindowsSearchAddonFeature=#### Finished Integrating Windows Search Add-on Feature #######################"
-set "txtFinishedIntegratingWindowsWindowsSpeechAddonFeature=#### Finished Integrating Windows Speech ^& Text Add-on Feature ###############"
-set "txtFinishedIntegratingWindowsWindowsTabletAddonFeature=#### Finished Integrating Windows Tablet PC Add-on Feature ####################"
-set "txtIntegratingWindowsWindowsMediaPlayerWMV=Integrating Windows Media Player WMV Premium Codec Package..."
+set "txtFinishedIntegratingWindowsParentalAddonFeature=#### Finished Integrating Windows Parental Control Add-on Feature #############"
+set "txtFinishedIntegratingWindowsPhotoViewerAddonFeature=#### Finished Integrating Windows Photo Viewer Add-on Feature #################"
+set "txtFinishedIntegratingWindowsSearchAddonFeature=#### Finished Integrating Windows Search Add-on Feature #######################"
+set "txtFinishedIntegratingWindowsSpeechAddonFeature=#### Finished Integrating Windows Speech ^& Text Add-on Feature ###############"
+set "txtFinishedIntegratingWindowsTabletAddonFeature=#### Finished Integrating Windows Tablet PC Add-on Feature ####################"
+set "txtIntegratingWindowsMediaPlayerWMV=Integrating Windows Media Player WMV Premium Codec Package..."
 set "txtIntegrateDirectX9c=               MSMG Toolkit - Integrate Microsoft DirectX 9.0c"
 set "GlobalIntegrateDirectX9cOp01pos01=Microsoft DirectX 9.0c Pack file"
 set "txtStartingIntegratingDirectX9c=#### Starting Integrating Microsoft DirectX 9.0c ##############################"
@@ -1428,7 +1428,7 @@ set "txtIntegratingWindows7SP1ConvenienceRollupUpdate=Integrating Windows 7 SP1 
 set "txtIntegratingWindows7SP1July2016=Integrating Windows 7 SP1 July 2016 Rollup Update Package..."
 set "txtIntegratingWHDGeneralUpdatesPackages=Integrating WHD General Updates Packages..."
 set "txtIntegratingWindows7ClientUpdatesPackages=Integrating Windows 7 Client Updates Packages..."
-set "txtIntegratingWindows81Upgradeable=Integrating Windows 8.1 Upgradeable Editions Updates Packages..."
+set "GlobalIntegratingWindows81Upgradeable=Integrating Windows 8.1 Upgradeable Editions Updates Packages..."
 set "txtIntegratingWindows7EnterpriseUpdatesPackages=Integrating Windows 7 Enterprise Edition Updates Packages..."
 set "txtIntegratingWindows7UltimateUpdatesPackages=Integrating Windows 7 Ultimate Edition Updates Packages..."
 set "txtIntegratingWindows7ServicingStackUpdatesPackages=Integrating Windows 7 Servicing Stack Update Package..."
