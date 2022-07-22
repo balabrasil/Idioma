@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-22_v1
+rem Version 2022-07-22_v2
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-21
@@ -510,20 +510,20 @@ set "txtFinishedIntegratingDriversWimRe=#### Finished Integrating Windows Driver
 set "GlobalTheseDriversOnlyExported=These drivers are only Exported for backup purposes."
 set "txtNoteItNotPossibleDifferent=Note: It is not possible to integrate drivers for different architectures."
 set "GlobalNoteItNotPossibleWindows=Note: It is not possible to integrate drivers from This Windows"
-set "txtExportDrivers_01line01=             The host Exported Drivers are from an earlier version             "
-set "txtExportDrivers_01line02=                     of the source Windows being serviced.                     "
-set "txtExportDrivers_02line01=Note: It is maybe possible to integrate drivers from This"
-set "txtExportDrivers_02line02pos01=Windows"
-set "txtExportDrivers_02line02pos02=Build"
-set "txtExportDrivers_02line02pos03=Host OS.
-set "txtExportDrivers_03line01=Do you want to copy the Exported Drivers to"
-set "txtExportDrivers_03line02=folder,"
-set "txtExportDrivers_03line03=so you can do this integration ?"
-set "txtExportDrivers_04=Backup pre-existing Drivers, then"
-set "txtExportDrivers_05=Export and Copy the Exported Drivers."
-set "txtExportDrivers_06=Note: Backup will rename the pre-existing Drivers folder."
-set "txtExportDrivers_07=Both Export and Copy will overwrite existing drivers."
-set "txtExportDrivers_08=Just Export the Drivers for backup purposes."
+set "txtExportDriversline1=             The host Exported Drivers are from an earlier version             "
+set "txtExportDriversline2=                     of the source Windows being serviced.                     "
+set "txtExportDriversline3=Note: It is maybe possible to integrate drivers from This"
+set "txtExportDriversline4pos1=Windows"
+set "txtExportDriversline4pos2=Build"
+set "txtExportDriversline4pos3=Host OS.
+set "txtExportDriversline5=Do you want to copy the Exported Drivers to"
+set "txtExportDriversline6pos2=folder,"
+set "txtExportDriversline7=so you can do this integration ?"
+set "txt1ExportDriversline1=Backup pre-existing Drivers, then"
+set "GlobalBackupPreExistingDrivers=Export and Copy the Exported Drivers."
+set "txt1ExportDriversline3=Note: Backup will rename the pre-existing Drivers folder."
+set "txt2ExportDriversline2=Both Export and Copy will overwrite existing drivers."
+set "txt3ExportDrivers=Just Export the Drivers for backup purposes."
 set "GlobalExportDrivers=Renaming Folder from:"
 set "txtCopyingAllExportedDrivers=Copying all Exported Drivers from:"
 set "txtFinishedDuplicatingDrivers=Finished Duplicating Drivers."
