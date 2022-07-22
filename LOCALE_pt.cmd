@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-21_v2
+rem Version 2022-07-21_v3
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-21
@@ -210,9 +210,9 @@ set "txtvirtcreimedop=Indices da Imagem Selecionados:"
 set "txtvirtcreimedformop1line01=e a opcao selecionada para formato da Imagem."
 set "txtvirtcreimedformop1line02=Salve a ISO no formato install.wim ou install.esd."
 set "txtvirtcreimedformopcline01=Continuar com a funcao de Criacao Virtual - Edicoes de Indice da Imagem"
-set "txtvirtcreimedformopcline02=Obs. Voce vai ter as Edicoes com base em:"
+set "GlobalNoteYouWillObtainEditionsBased=Obs. Voce vai ter as Edicoes com base em:"
 set "GlobalBasedEditions=Edicao Baseada"
-set "txtvirtcreimedformomsgline01=Script do abbodi1406 - Criacao Virtual - Edicoes de Indice da Imagem."
+set "GlobalVirtualCreateImageIndexEditionsScript=Script do abbodi1406 - Criacao Virtual - Edicoes de Indice da Imagem."
 set "txtvirtcreimedformomsgline02=nao suporta Windows 7, 8 e 8.1"
 set "txtvirtcreimedformomsgline03=a funcao Criacao Virtual de Edicoes da Imagem esta"
 set "GlobalGoBackMainMenu=Voltar ao Menu Principal"
@@ -2080,6 +2080,7 @@ set "txtHideTaskbarMeetIcon=#### Tweak Ocultar Icone Conheca Agora da Barra de T
 set "txtHideTaskbarNewsIcon=#### Tweak Ocultar Icone Noticias e Interesses da Barra de Tarefas ############"
 set "txtHideTaskbarSearchbox=#### Tweak Ocultar Icone Pesquisar da Barra de Tarefas ########################"
 set "txtHideTaskbarTaskViewIcon=#### Tweak Ocultar Icone Visao de Tarefas da Barra de Tarefas #################"
+set "txtSetTaskbarIconsMinimumSize=#### Defina a Barra de Tarefas e Icones para o Tamanho Minimo #################"
 set "txtEnableClassicContext=#### Tweak Ativar Menus de Contexto classicos #################################"
 set "txtEnableLocalAccount=#### Tweak Ativar Conta Local #################################################"
 set "txtHideTaskbarChatIcon=#### Tweak Ocultar Icone de bate-papo da Barra de Tarefas #####################"
