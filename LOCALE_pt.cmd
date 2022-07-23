@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-23_v3
+rem Version 2022-07-23_v4
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-23
@@ -2469,7 +2469,7 @@ set "txtISOSourcespos1=ISO Origem"
 set "txtISOSourcespos2=Pasta ^(ISO Intocados^)"
 set "txtISOSavespos1=ISO Salvas"
 set "txtISOSavespos2=Pasta ^(ISOS Personalizados^)"
-set "txtSelectWantedImage=Selecione a Imagem para ser Trabalhada"
+set "txtSelectWantedImage=Monte a Imagem para ser Trabalhada"
 set "txtDisplayImageInformation01=Obtendo informacoes da Imagem..."
 set "txtIndexArchName=^| Indice ^| Arq. ^| Nome"
 set "txtImageIndexServicepos01=Digite o Indice da Imagem # [Intervalo:"
