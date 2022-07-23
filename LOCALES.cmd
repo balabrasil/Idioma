@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-23_v2
+rem Version 2022-07-23_v3
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-23
@@ -139,7 +139,7 @@ set "txtIntegratePersonalFeatures=Integrate Personal Features Selection"
 set "GlobalOption_SelectAll=Select All Options"
 set "GlobalOption_RevertDefault=Revert to Default"
 set "GlobalOption_GoBackSelectStartIntegration=Go Back and Select: 'S' to "Start Integration"."
-set "txtIntegrateCustomFeaturesMenu=            MSMG Toolkit - Integrate Windows Custom Features Menu   
+set "txtIntegrateCustomFeaturesMenu=            MSMG Toolkit - Integrate Windows Custom Features Menu              "
 set "GlobalWARNING=W A R N I N G"           "
 set "txtIntegrateCustomMenu_msg01=Integrating Windows Custom Features involves patching system files and so"
 set "txtIntegrateCustomMenu_msg02=the SFC can report about Windows System Files corruption, This is normal."
@@ -303,7 +303,7 @@ set "txtCopyingSourceFromInstallMediaDrivepos02=to Source"
 set "txtCopyingFromInstallMedia=Copying from Install Media Drive may take some time, so please wait..."
 set "txtCopyingComplete=Copying Complete..."
 set "txtFinishedCopyingSourceFromInstallMedia=#### Finished Copying Source from Install Media Drive to ^<Install Media^> folder #######"
-set "txtExtractSourceline1=MSMG Toolkit - Extract Source from:" 
+set "GlobalExtractSourceFrom=MSMG Toolkit - Extract Source from:" 
 set "txtExtractSourceline2=Install Media ISO or OEM IMG file to ^<Install Media^> folder"
 set "GlobalCantFindWindowsInstallMedia=Can't find Windows Install Media ISO or OEM IMG file in :"
 set "GlobalPleasePutWindowsInstallMediaISO=Please put Windows Install Media ISO or OEM IMG file"
@@ -333,7 +333,6 @@ set "txtExportingStoreESDImage=Exporting Windows Store ESD Image [install.esd, I
 set "txtExportingStoreESDInstallpos1=Exporting Windows Store ESD Image [install.esd, Index :"
 set "txtExportingStoreESDInstallpos2=to Install Image..."
 set "txtFinishedExtractingFromStoreESD=#### Finished Extracting Source from Store ESD Install Image ###################"
-set "txtExtractSourceFromCustomESDline1=   MSMG Toolkit - Extract Source from:"
 set "txtExtractSourceFromCustomESDline2=                  Microsoft's Media Creation Tool or Custom ESD Install Image"
 set "txtStartingExtractingSourceFromCustomESD=#### Starting Extracting Source from ESD Install Image ########################"
 set "txtExtractingSourceFromCustomESD=#### Extracting Source from ESD Install Image #################################"
@@ -1988,6 +1987,7 @@ set "txtSetLanmanWorkstation=Set Lanman Workstation and Downloads - Optimization
 set "txtSetQoSLimitZero=Set QoS limit to zero - internet With No Limits"
 set "txtSetWindows11TaskbarAlignment=Set Windows 11 Taskbar Alignment from Center to Left"
 set "txtSetWindows11TaskbarMinimum=Set Windows 11 Taskbar to Minimum Size"
+set "txtSetTaskbarMinimumSizeSmallIcons=Set Windows Taskbar to Minimum Size and Small Icons"
 set "txtSetWindowsSearchCortana=Set Windows Search and Cortana - Preferences and Policies"
 set "txtWindowsExplorerPreferences=Windows Explorer - Preferences and Policies"
 set "txtBlockAutomaticEdge=Block Automatic Edge Chromium-based Delivery"
