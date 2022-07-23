@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-23_v2
+rem Version 2022-07-23_v3
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-23
@@ -295,7 +295,7 @@ set "txtCopyingSourceFromInstallMediaDrivepos02=para a pasta"
 set "txtCopyingFromInstallMedia=A copia dos arquivos do DVD pode levar algum tempo, aguarde..."
 set "txtCopyingComplete=Copia Completa..."
 set "txtFinishedCopyingSourceFromInstallMedia=#### Concluida a copia dos arquivos para a pasta ^<Install Media^> ############"
-set "txtExtractSourceline1=MSMG Toolkit - Extraia a Imagem install.wim da:"
+set "GlobalExtractSourceFrom=MSMG Toolkit - Extraia a Imagem install.wim da:"
 set "txtExtractSourceline2=ISO ou OEM IMG para na pasta ^<Install Media^>"
 set "GlobalCantFindWindowsInstallMedia=A ISO nao esta na respectiva pasta:"
 set "GlobalPleasePutWindowsInstallMediaISO=Coloque o arquivo ISO dentro da respectiva pasta..."
@@ -325,7 +325,6 @@ set "txtExportingStoreESDImage=Exportando a Imagem ESD [install.esd, Indice: 4] 
 set "txtExportingStoreESDInstallpos1=Exportando a Imagem ESD [install.esd, Indice:"
 set "txtExportingStoreESDInstallpos2=para a Imagem install.wim..."
 set "txtFinishedExtractingFromStoreESD=#### Extracao concluida da Imagem install.wim da Imagem install.esd #########################"
-set "txtExtractSourceFromCustomESDline1=   MSMG Toolkit - Extraia a install.wim da:"
 set "txtExtractSourceFromCustomESDline2=         Microsoft's Media Creation Tool ou da Imagem ESD personalizada        "
 set "txtStartingExtractingSourceFromCustomESD=#### Iniciando a extracao da install.wim da Imagem install.esd ##############################"
 set "txtExtractingSourceFromCustomESD=#### Extraindo a install.wim da Imagem install.esd ##########################################"
@@ -1975,12 +1974,13 @@ set "txtEnableCustomWindowsDriversUpdate=Ativa a atualizacao de drivers por meio
 set "txtEnableDarkTheme=Ativar DarkTheme e Transparencia"
 set "txtEnableHiberboot=Ativar Hiberboot"
 set "txtLegacyVerticalMixer=Controle de Volume Legacy Vertical Mixer"
-set "txtSetCloudContent43RDParty=Definir politicas CloudContent e DataCollection"
-set "txtSetLanmanWorkstation=Definir otimizacao para Workstation e downloads Lanman"
+set "txtSetCloudContent43RDParty=Defina politicas CloudContent e DataCollection"
+set "txtSetLanmanWorkstation=Defina otimizacao para Workstation e downloads Lanman"
 set "txtSetQoSLimitZero=Defina QoS para zero - Internet sem limitacoes"
-set "txtSetWindows11TaskbarAlignment=Definir o alinhamento da Barra de Tarefas do Windows 11 para a esquerda"
-set "txtSetWindows11TaskbarMinimum=Definir a Barra de Tarefas do Windows 11 para o tamanho minimo"
-set "txtSetWindowsSearchCortana=Definir Pesquisa e Cortana - Preferencias e Politicas"
+set "txtSetWindows11TaskbarAlignment=Defina o alinhamento da Barra de Tarefas do Windows 11 para a esquerda"
+set "txtSetWindows11TaskbarMinimum=Defina a Barra de Tarefas do Windows 11 para o tamanho minimo"
+set "txtSetTaskbarMinimumSizeSmallIcons=Defina a Barra de Tarefas para tamanho minimo e Icones pequenos"
+set "txtSetWindowsSearchCortana=Defina Pesquisa e Cortana - Preferencias e Politicas"
 set "txtWindowsExplorerPreferences=Explorador de Arquivos - Preferencias e Politicas"
 set "txtBlockAutomaticEdge=Bloqueie a entrega automatica do Edge Chromium"
 set "txtGeneralTweaks=Tweaks Gerais"
