@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-23_v3
+rem Version 2022-07-23_v4
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-23
