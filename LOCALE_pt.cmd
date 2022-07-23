@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-22_v3
+rem Version 2022-07-23_v1
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-21
@@ -2516,7 +2516,7 @@ set "txtTheSpecifiedPackagepos2=ja foi removido..."
 set "GlobalDownloadFilepos1=O arquivo"
 set "GlobalDownloadFilepos2=esta presente."
 set "txtCopyGenericEIcfgline1=#### Copiando arquivo EI.cfg generico na pasta:"
-set "txtCopyGenericEIcfgline2= #####"
+set "txtCopyGenericEIcfgline2= ###########################"
 set "txtWriteGenericEIcfg01ln01=#### Copiando arquivo EI.cfg de"
 set "txtWriteGenericEIcfg01ln02=na pasta:"
 set "txtWriteGenericEIcfg03=#### Concluida a copia do arquivo EI.cfg ######################################"
