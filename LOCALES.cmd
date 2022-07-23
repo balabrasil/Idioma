@@ -1,8 +1,8 @@
 ::LOCALES
-rem Version 2022-07-23_v1
+rem Version 2022-07-23_v2
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
-rem Version 12.5 2022-07-21
+rem Version 12.5 2022-07-23
 
 :: The work, of all the transfer of the original texts of Toolkit and Custom Toolkit, creation of variables for translation from [en-US] and its translation to Portuguese [pt-BR] or [pt-PT] performed by the Maintainer, @bala1.
 
@@ -410,7 +410,7 @@ set "txtStartingIntegratingLanguagePacksBoot=#### Starting Integrating Windows L
 set "txtStartingIntegratingLanguagePacksWim=#### Starting Integrating Windows Language Packs to Windows Installation Image"
 set "txtStartingIntegratingLanguagePacksWimRe=#### Starting Integrating Windows Language Packs to Windows Reocvery Image ####"
 set "GlobalImage=Image                    :"
-set "GlobalImageIndexes=Image Indexes            :"
+set "txtImageIndexes=Image Indexes            :"
 set "GlobalImageIndex=Image Index              :"
 set "GlobalImageArchitecture=Image Architecture       :"
 set "GlobalImageVersion=Image Version            :"
