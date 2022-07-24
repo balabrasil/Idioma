@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-23_v4
+rem Version 2022-07-24_v1
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-23
@@ -140,7 +140,7 @@ set "GlobalOption_SelectAll=Select All Options"
 set "GlobalOption_RevertDefault=Revert to Default"
 set "GlobalOption_GoBackSelectStartIntegration=Go Back and Select: 'S' to "Start Integration"."
 set "txtIntegrateCustomFeaturesMenu=            MSMG Toolkit - Integrate Windows Custom Features Menu              "
-set "GlobalWARNING=W A R N I N G"           "
+set "GlobalWARNING=W A R N I N G"
 set "txtIntegrateCustomMenu_msg01=Integrating Windows Custom Features involves patching system files and so"
 set "txtIntegrateCustomMenu_msg02=the SFC can report about Windows System Files corruption, This is normal."
 set "txtIntegrateCustomMenu_msg03="
@@ -514,7 +514,7 @@ set "txtExportDriversline2=                     of the source Windows being serv
 set "txtExportDriversline3=Note: It is maybe possible to integrate drivers from This"
 set "txtExportDriversline4pos1=Windows"
 set "txtExportDriversline4pos2=Build"
-set "txtExportDriversline4pos3=Host OS.
+set "txtExportDriversline4pos3=Host OS."
 set "txtExportDriversline5=Do you want to copy the Exported Drivers to"
 set "txtExportDriversline6pos2=folder,"
 set "txtExportDriversline7=so you can do this integration ?"
@@ -705,11 +705,10 @@ set "txtIntegratingMediaFeature=#### Integrating Windows Media Feature Pack ####
 set "GlobalIntegratingMediaFeatureOOB=Integrating Microsoft Windows Media Feature Pack OOB Package"
 set "txtIntegratingMediaFeatureFormatOOB=Integrating Microsoft Windows Media Format OOB Package"
 set "txtIntegratingMediaFeatureOOBpos01=Integrating Microsoft Windows Media Feature Pack OOB"
-set "GlobalIntegratingMediaFeatureOOBpos02=Package"
+set "GlobalIntegratingMediaFeaturepos2=Package"
 set "txtIntegratingMediaFeatures=Integrating Microsoft Windows Media Features Package"
-set "txtIntegratingMediaFeaturespos01=Integrating Microsoft Windows Media Features"
+set "GlobalIntegratingMediaFeaturespos1=Integrating Microsoft Windows Media Features"
 set "txtIntegratingMediaFeaturesWOW64=Integrating Microsoft Windows Media Features WOW64 Package..."
-set "txtIntegratingMediaFeaturesWOW64pos01=Integrating Microsoft Windows Media Features"
 set "txtIntegratingMediaFeaturesWOW64pos02=WOW64 Package..."
 set "txtFinishedIntegratingMediaFeature=#### Finished Integrating Windows Media Feature Pack ##########################"
 set "txtIntegrateWinMixedReality=              MSMG Toolkit - Integrate Windows Mixed Reality                   "
@@ -1302,7 +1301,7 @@ set "txtFinishedIntegratingUpdatesWIM=#### to Windows Setup Install Image ######
 set "txtFinishedIntegratingUpdatesWIMwinRe=#### to Windows Setup Install ^& Recovery Images ###############################"
 set "txtFinishedIntegratingUpdatesWIMwinReBoot=#### to Windows Setup Boot, Install ^& Recovery Images #########################"
 set "txtIntegrateWindowsUpdatesnew=                   MSMG Toolkit - Integrate Windows Updates"
-set "txtIntegrateWHDGeneralUpdatesnew=                 MSMG Toolkit - Integrate WHD General Updates""
+set "txtIntegrateWHDGeneralUpdatesnew=                 MSMG Toolkit - Integrate WHD General Updates"
 set "txtIntegrateWHDHotfixUpdates=                 MSMG Toolkit - Integrate WHD Hotfix Updates"
 set "txtIntegrateWHDSecurityUpdates=               MSMG Toolkit - Integrate WHD Security Updates"
 set "txtIntegrateWHDExtendedSecurityUpdates=           MSMG Toolkit - Integrate WHD Extended Security Updates"
