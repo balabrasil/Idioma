@@ -2,7 +2,7 @@
 rem Version 2022-07-24_v1
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
-rem Version 12.5 2022-07-23
+rem Version 12.5 2022-07-24
 
 :: The work, of all the transfer of the original texts of Toolkit and Custom Toolkit, creation of variables for translation from [en-US] and its translation to Portuguese [pt-BR] or [pt-PT] performed by the Maintainer, @bala1.
 
