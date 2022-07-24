@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-24_v1
+rem Version 2022-07-24_v2
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-24
@@ -52,7 +52,7 @@ set "GlobalChoice_Remove=emove"
 set "txtIsBootImageSelected=A Imagem de Boot esta selecionada?"
 set "txtIsRecoveryImageSelected=A Imagem WimRE esta selecionada?"
 set "txtIsSourceImageSelected=A Imagem install.wim esta selecionada?"
-set "txtMainMenu=Menu Principal"
+set "GlobalMenuMainMenu=                         MSMG Toolkit - Menu Principal                        "
 set "txtMainMenu_1=Origem"
 set "txtMainMenu_2=Integrar"
 set "txtMainMenu_3=Remover"
@@ -166,7 +166,6 @@ set "GlobalOption_Continue=Continue"
 set "GlobalOption_Return4Change=Retornar para fazer outras escolhas"
 set "txtIntegrateFeatures=                       MSMG Toolkit - Integrar Recursos"
 set "txtStartingIntegrateFeatures=#### Iniciando a Integracao de Recursos #######################################"
-set "GlobalRemoveMenu=Menu Remover"
 set "txtRemoveWinAppsListMenu=       MSMG Toolkit - Remover Aplicativos Usando uma Lista de Aplicativos      "
 set "txtRemoveWinAppspListRemove=Remover Aplicativos usando uma Lista de Aplicativos"
 set "txtmenuremovepackcomplist=Remover Componentes usando uma Lista de Componentes"
@@ -1626,7 +1625,7 @@ set "txtRemoveMenuline3=suporte atualmente."
 set "txtRemoveMenuline4=Portanto, recomendo usar este metodo de remocao, para fins de teste"
 set "txtRemoveMenuline5=e use por sua conta e risco."
 set "txtRemoveMenuline6=Sabendo das recomendacoes, continue."
-set "txtRemoveWindowsComponentsMenu=Menu Remover Componentes do Windows"
+set "GlobalRemoveWindowsComponentsMenu=            MSMG Toolkit - Menu Remover Componentes do Windows"
 set "GlobalReadComponentsListPreSet=Leia a lista de componentes como uma pre-selecao de remocao"
 set "txtCustomPreSetsRemovingComponents=Pre-selecoes personalizadas para remocao"
 set "txtPersonalPreSetsRemovingComponents=Pre-selecoes pessoais para remocao"
