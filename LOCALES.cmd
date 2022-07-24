@@ -1,5 +1,5 @@
 ::LOCALES
-rem Version 2022-07-24_v1
+rem Version 2022-07-24_v2
 rem copy to ".\LOCALES" folder
 ::for Custom Toolkit
 rem Version 12.5 2022-07-24
@@ -60,7 +60,7 @@ set "GlobalChoice_Remove=emove"
 set "txtIsBootImageSelected=Is Boot Image Selected ?"
 set "txtIsRecoveryImageSelected=Is Recovery Image Selected ?"
 set "txtIsSourceImageSelected=Is Source Image Selected ?"
-set "txtMainMenu=Main Menu"
+set "GlobalMenuMainMenu=                           MSMG Toolkit - Main Menu                           "
 set "txtMainMenu_1=Source"
 set "txtMainMenu_2=Integrate"
 set "txtMainMenu_3=Remove"
@@ -174,7 +174,6 @@ set "GlobalOption_Continue=Continue"
 set "GlobalOption_Return4Change=Return for make other Changes"
 set "txtIntegrateFeatures=                       MSMG Toolkit - Integrate Features"
 set "txtStartingIntegrateFeatures=#### Starting Integrate Features ##############################################"
-set "GlobalRemoveMenu=Remove Menu"
 set "txtRemoveWinAppsListMenu=          MSMG Toolkit - Remove Windows Apps Using Apps List                   "
 set "txtRemoveWinAppspListRemove=Remove Windows Apps Using Apps List"
 set "txtmenuremovepackcomplist=Remove Windows Components Using Package List"
@@ -1634,7 +1633,7 @@ set "txtRemoveMenuline3=Image Service Pack Build that is also not currently supp
 set "txtRemoveMenuline4=Therefore use this removal method, for testing purposes and/or use at your"
 set "txtRemoveMenuline5=own risk."
 set "txtRemoveMenuline6=Mindful of the recommendations, go ahead."
-set "txtRemoveWindowsComponentsMenu=Remove Windows Components Menu"
+set "GlobalRemoveWindowsComponentsMenu=                 MSMG Toolkit - Remove Windows Components Menu"
 set "GlobalReadComponentsListPreSet=Read Components List as a PreSet for Removing Components"
 set "txtCustomPreSetsRemovingComponents=Custom PreSets for Removing Components"
 set "txtPersonalPreSetsRemovingComponents=Personal PreSets for Removing Components"
